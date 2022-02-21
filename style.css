@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.homelist .head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1%;
+}
+
+.homelist > ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 1px;
+  margin-top: 2px;
+}
+.homelist > ul li a:hover {
+  color: blackS;
+}
+.display-5 {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
